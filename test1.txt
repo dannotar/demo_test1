@@ -1,1 +1,2 @@
 test text file - added text- and more text - and again from the repository
+Line 2
